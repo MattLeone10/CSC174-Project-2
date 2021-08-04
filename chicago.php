@@ -28,12 +28,12 @@
 			<h2>Quick Facts</h2>
 			<img src="https://placebear.com/300/400">
 
-			<h3>Population</h3>
+			<h3>Population: 2.7 million</h3>
 			<h3>Geography</h3>
 			<ul>
-				<li>State:</li>
-				<li>Region:</li>
-				<li>Size:</li>
+				<li>State: Illinois</li>
+				<li>Region: Midwest</li>
+				<li>Size: 234 square miles</li>
 			</ul>
 
 			<h2>History of Chicago</h2>
