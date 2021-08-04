@@ -45,24 +45,7 @@
 		</article>
 
 		<aside>
-			<h2>Order our Free Travel Guide<h2>
-			<p>Fill out this form and we'll email you our free guide with all you need to plan a trip to all three cities!</p>
-
-			<form method="post" action="">
-
-			<label for="firstName">First Name:</label>
-			<input type="text" name="firstName"> <br> <br>
-
-			<label for="lastname">Last Name:</label>
-			<input type="text" name="lastname" id="lastname"> <br> <br>
-
-			<label for="email">Email:</label>
-			<input type="text" name="email" id="email"> <br> <br>
-
-			<label for="phoneNumber">Zipcode:</label>
-			<input type="text" name="phoneNumber" id="phoneNumber"> <br> <br>
-
-			<div class = "submit"><input type="submit" value="Send me my guide!"></div>
+			
 
 	</form> 
 

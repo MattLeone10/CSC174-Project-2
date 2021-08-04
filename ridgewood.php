@@ -108,6 +108,26 @@
 			<!-- FPO map -->
 			<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1h18b6_6lk0zOcIDRPwTRwqqiOuV2BBhX" width="300" height="300"></iframe>
 
+			<h2>Sign the Guest Book<h2>
+			<form method="post" action="">
+
+			<label for="firstName">First Name:</label>
+			<input type="text" name="firstName"> <br> <br>
+
+			<label for="lastname">Last Name:</label>
+			<input type="text" name="lastname" id="lastname"> <br> <br>
+
+			<label for="email">Email:</label>
+			<input type="text" name="email" id="email"> <br> <br>
+
+			<label for="phoneNumber">Zipcode:</label>
+			<input type="text" name="zipcode" id="zipcode"> <br> <br>
+
+			<label for="phoneNumber">City Visited:</label>
+			<input type="text" name="city" id="city"> <br> <br>
+
+			<div class = "submit"><input type="submit" value="Signed!"></div>
+
 		</aside>
 
 		<footer>
