@@ -16,10 +16,10 @@
 
 		<navbar class="menu">
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="chicago.html">Chicago</a></li>
-				<li><a href="phoenix.html">Phoenix</a></li>
-				<li><a href="ridgewood.html">Ridgewood</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="chicago.php">Chicago</a></li>
+				<li><a href="phoenix.php">Phoenix</a></li>
+				<li><a href="ridgewood.php">Ridgewood</a></li>
 			</ul>
 		</navbar>
 
