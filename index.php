@@ -46,8 +46,31 @@
 
 		<aside>
 			
+			<h2>Our Guest Book</h2>
+			<p>See who has visited Chicago, Phoenix, or Ridgewood</p>
 
-	</form> 
+			<table>
+				<tr>
+					<th>Counter</th>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Email</th>
+					<th>Zipcode</th>
+					<th>City Visited</th>
+					<th colspan="2">Functions</th>
+				</tr>
+				
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+	    			<td></td>
+				</tr>
+			</table> 
 
 		</aside>
 
