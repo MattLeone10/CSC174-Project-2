@@ -24,21 +24,21 @@
 		</navbar>
 
 		<section>
-			<img src="https://placebear.com/1250/800">
+			<img src="images/hero.jpg">
 		</section>
 
 		<article>
 			<h2>Our Cities:</h2>
 
-			<img src="https://placebear.com/150/150">
+			<img src="images/chi.jpg">
 			<h3>Chicago, IL</h3>
 			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
 
-			<img src="https://placebear.com/150/150">
+			<img src="images/phx.jpg">
 			<h3>Phoenix, AZ</h3>
 			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
 
-			<img src="https://placebear.com/150/150">
+			<img src="images/rw.jpg">
 			<h3>Ridgewood, NJ</h3>
 			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
 
