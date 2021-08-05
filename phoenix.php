@@ -27,13 +27,12 @@
 		<article>
 			<h2>Quick Facts</h2>
 			<img src="https://placebear.com/300/400">
-
-			<h3>Population: 4.5 million</h3>
-			<h3>Geography</h3>
+			
 			<ul>
 				<li>State: Arizona</li>
 				<li>Region: Southwest</li>
 				<li>Size: 517 square miles</li>
+				<li>Population: 4.5 million</li>
 			</ul>
 
 			<h2>History of Phoenix</h2>

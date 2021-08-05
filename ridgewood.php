@@ -28,12 +28,11 @@
 			<h2>Quick Facts</h2>
 			<img src="https://placebear.com/300/400">
 
-			<h3>Population: 25,000</h3>
-			<h3>Geography</h3>
 			<ul>
 				<li>State: New Jersey</li>
 				<li>Region: Mid-Atlantic</li>
 				<li>Size: 5.8 square miles</li>
+				<li>Population: 25,000</li>
 			</ul>
 
 			<h2>History of Ridgewood</h2>
