@@ -91,18 +91,18 @@
 
 				<h3>Places to Stay</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/fieldhouse.jpg" alt="Two beds with white sheets and a dark wood bedframe in a white-paneled room.">
+					<figcaption>Fieldhouse Jones</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/bright_stylish.jpg" alt="A living room with gray walls, a large leather sectional, a wooden coffee table and tall windows leading to a patio.">
+					<figcaption>Bright and Stylish Loft</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/freehand.jpg" alt="">
+					<figcaption>Freehand Chicago</figcaption>
 				</figure>
 			
 			<!-- FPO map -->
