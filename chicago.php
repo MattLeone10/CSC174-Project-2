@@ -59,18 +59,18 @@
 			<h2>Visit Chicago</h2>
 			<h3>Places to See</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/millennium_park.jpg" alt="People grouped around a metal, reflective sculpture shaped like a bean.">
+					<figcaption>The Bean</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/navy_pier.jpg" alt="A pier with a large Ferris wheel.  Chicago's skyline is in the background and Lake Michigan is to the left.">
+					<figcaption>Navy Pier</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/aquarium.jpg" alt="An aquarium filled with many different colorful fish.  A person can be seen through the glass watching the fish.">
+					<figcaption>Shedd Aquarium</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
