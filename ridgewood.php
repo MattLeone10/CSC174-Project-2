@@ -75,18 +75,18 @@
 
 			<h3>Places to Eat</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/raymonds.jpg" alt="A brick building with large windows.  A black and red sign with the name Raymond's hangs above the windows.">
+					<figcaption>Raymond's</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/village_green.jpg" alt="A cream building with brown trim and supports and a gray peaked roof.  There is a large clock on the building's face.">
+					<figcaption>Village Green Restaurant</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/cafe_37.jpg" alt="Two tables of people eating outside on a patio.">
+					<figcaption>Cafe 37</figcaption>
 				</figure>
 
 				<h3>Places to Stay</h3>
