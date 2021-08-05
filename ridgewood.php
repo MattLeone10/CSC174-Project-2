@@ -59,18 +59,18 @@
 			<h2>Visit Ridgewood</h2>
 			<h3>Places to See</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/schoolhouse.jpg" alt="A white building with a pointed roof surrounded by trees.">
+					<figcaption>Schoolhouse Museum</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/james_rose.jpg" alt="A curved stone path through a garden with a gate and a decorative structure to the right.">
+					<figcaption>James Rose Center</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/graydon.jpg" alt="A pool and a grassy area with a tree on each side of the image.  There are people to the right and tents in the distance.">
+					<figcaption>Graydon Park</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
