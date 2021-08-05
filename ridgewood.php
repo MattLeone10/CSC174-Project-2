@@ -49,7 +49,7 @@
 			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
 
 			<h3>Weather</h3>
-			<p>Odio pharetra potenti feugiat luctus erat tellus fermentum ultrices sed mus lacinia mus metus bibendum nam nascetur est molestie arcu placerat massa sem inceptos nulla nisl faucibus mattis. Inceptos parturient. Cras molestie dolor. A montes, lacus sollicitudin, tellus eleifend ridiculus facilisis diam ante nibh tristique urna nam magna. Lobortis velit.</p>
+			<p>Ridgewood's weather is typical for the US.  The town receives 48 inches of rainfall and 24 inches of snow per year.  The Mid-Atlantic region experiences warm summers and cold winters.  Ridgewood's average July high is 83 degree and its average January low is 18 degrees.</p>
 
 			<img src="https://placebear.com/500/300">
 			
