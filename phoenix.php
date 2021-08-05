@@ -28,12 +28,12 @@
 			<h2>Quick Facts</h2>
 			<img src="https://placebear.com/300/400">
 
-			<h3>Population</h3>
+			<h3>Population: 4.5 million</h3>
 			<h3>Geography</h3>
 			<ul>
-				<li>State:</li>
-				<li>Region:</li>
-				<li>Size:</li>
+				<li>State: Arizona</li>
+				<li>Region: Southwest</li>
+				<li>Size: 517 square miles</li>
 			</ul>
 
 			<h2>History of Phoenix</h2>
@@ -49,7 +49,7 @@
 			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
 
 			<h3>Weather</h3>
-			<p>Odio pharetra potenti feugiat luctus erat tellus fermentum ultrices sed mus lacinia mus metus bibendum nam nascetur est molestie arcu placerat massa sem inceptos nulla nisl faucibus mattis. Inceptos parturient. Cras molestie dolor. A montes, lacus sollicitudin, tellus eleifend ridiculus facilisis diam ante nibh tristique urna nam magna. Lobortis velit.</p>
+			<p>Phoenix is famous for being very hot and very dry.  Phoenix's average July high is 105 degrees, with winter "cooling" the city down to an average January low of 43 degrees.  Phoenix only receives about 9 inches of rain per year, a quarter of the US average.</p>
 
 			<img src="https://placebear.com/500/300">
 			

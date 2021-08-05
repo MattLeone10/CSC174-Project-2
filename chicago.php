@@ -28,12 +28,12 @@
 			<h2>Quick Facts</h2>
 			<img src="https://placebear.com/300/400">
 
-			<h3>Population</h3>
+			<h3>Population: 2.7 million</h3>
 			<h3>Geography</h3>
 			<ul>
-				<li>State:</li>
-				<li>Region:</li>
-				<li>Size:</li>
+				<li>State: Illinois</li>
+				<li>Region: Midwest</li>
+				<li>Size: 234 square miles</li>
 			</ul>
 
 			<h2>History of Chicago</h2>
@@ -49,7 +49,7 @@
 			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
 
 			<h3>Weather</h3>
-			<p>Odio pharetra potenti feugiat luctus erat tellus fermentum ultrices sed mus lacinia mus metus bibendum nam nascetur est molestie arcu placerat massa sem inceptos nulla nisl faucibus mattis. Inceptos parturient. Cras molestie dolor. A montes, lacus sollicitudin, tellus eleifend ridiculus facilisis diam ante nibh tristique urna nam magna. Lobortis velit.</p>
+			<p>Chicago is known for being very windy, and nearby Lake Michigan helps create around 3 feet of snow per year.  Chicago's place in the Midwest means it experiences both hot and cold temperatures (sometimes in the same week) with an average July high of 84 degrees and an average January low of 19 degrees, before taking humidity or windchill into account.</p>
 
 			<img src="https://placebear.com/500/300">
 			
@@ -59,18 +59,18 @@
 			<h2>Visit Chicago</h2>
 			<h3>Places to See</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/millennium_park.jpg" alt="People grouped around a metal, reflective sculpture shaped like a bean.">
+					<figcaption>The Bean</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/navy_pier.jpg" alt="A pier with a large Ferris wheel.  Chicago's skyline is in the background and Lake Michigan is to the left.">
+					<figcaption>Navy Pier</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/aquarium.jpg" alt="An aquarium filled with many different colorful fish.  A person can be seen through the glass watching the fish.">
+					<figcaption>Shedd Aquarium</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
