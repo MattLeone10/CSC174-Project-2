@@ -91,18 +91,18 @@
 
 				<h3>Places to Stay</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/riverview.jpg" alt="The front of a brick house.  There is a white door, bench and windows with green shutters.">
+					<figcaption>Riverview Bed and Breakfast</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/hudson.jpg" alt="A two-story yellow and brown house with a porch and hedges in front.">
+					<figcaption>Casa Hudson</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/waterstone.jpg" alt="A cream two-story house with a deck to the right.  A wooden staircase leads to the front door.">
+					<figcaption>Waterstone Inn</figcaption>
 				</figure>
 			
 			<!-- FPO map -->
