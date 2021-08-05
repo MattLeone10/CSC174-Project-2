@@ -75,18 +75,18 @@
 
 			<h3>Places to Eat</h3>
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/ginos.jpg" alt="Metal furniture in an outdoor seating area with a gray building in the background.">
+					<figcaption>Gino's East</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/portillos.jpg" alt="A row of small tables with photos hung on the brick wall and from the blue ceiling.">
+					<figcaption>Portillo's</figcaption>
 				</figure>
 
 				<figure>
-					<img src="https://placebear.com/250/250" alt="image description">
-					<figcaption>figure caption</figcaption>
+					<img src="images/garrett.jpg" alt="The front counter of a store with two cashiers and a menu behind it.">
+					<figcaption>Garrett Popcorn Shops</figcaption>
 				</figure>
 
 				<h3>Places to Stay</h3>
