@@ -39,10 +39,10 @@
 			<h2>History of Ridgewood</h2>
 
 			<h3>City's Founding</h3>
-			<p>Mollis. Et potenti pede hac faucibus mi per nascetur gravida sed urna aliquet montes pellentesque primis rhoncus pharetra. Suspendisse cursus parturient, interdum eget dapibus mollis ad conubia accumsan neque iaculis. Magnis sodales ultricies. Lorem eget dignissim senectus ullamcorper fusce consectetuer. Nisi felis. Aenean rhoncus suscipit viverra vulputate litora. Sem. Aenean.</p>
+			<p>In 1700, Johannes Van Emburgh built the first home in Ridgewood, having purchased a 250 acres (100 ha) property in 1698. The Village of Ridgewood was created on November 20, 1894. In 1902, the village added portions of Orvil Township, which were returned to Orvil Township in 1915. In 1925, Ridgewood Village acquired area from Franklin Township (remainder now dissolved as Wyckoff). On February 9, 1971, Ridgewood acquired area from Washington Township. On May 28, 1974, it acquired area from Ho-Ho-Kus. The name of the village derives from the characteristics of its terrain.</p>
 
 			<h3>Famous Historical Events</h3>
-			<p>Lacus cum fringilla rhoncus magnis dis ullamcorper fringilla, elit pede. Nulla curabitur fermentum. Fringilla class ipsum. Tellus mauris magna proin facilisis porta maecenas metus suscipit aenean quisque aliquam. Non aliquet nullam aptent. Elementum ligula fermentum erat at dolor suscipit est ipsum dictumst eleifend Magnis aliquam purus fringilla fusce facilisis morbi.</p>
+			<p>Ridgewood Train Station Circa 1900The railroad arrived in 1848 and times changed forever.  In the beginning, the nearest stop was in Hohokus.  However, mill owners clamored for a closer one and in 1851 a stop was created near the present-day train station.  A second track was added in 1865 and two more in 1902-03.  With the coming of the railroad, the center of town moved from the Paramus Church area to the intersection of Ridgewood Avenue and the railroad tracks. Commerical development clustered east of the station. Ridgewood grew steadily, slowly supplanting farms with houses and stores.</p>
 
 			<h2>What's it like in Ridgewood?</h2>
 			<h3>Landscape</h3>
