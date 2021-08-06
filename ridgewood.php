@@ -21,8 +21,6 @@
 
 		<article>
 			<h2>Quick Facts</h2>
-			<img src="https://placebear.com/300/400">
-
 			<ul>
 				<li>State: New Jersey</li>
 				<li>Region: Mid-Atlantic</li>
@@ -44,8 +42,6 @@
 
 			<h3>Weather</h3>
 			<p>Ridgewood's weather is typical for the US.  The town receives 48 inches of rainfall and 24 inches of snow per year.  The Mid-Atlantic region experiences warm summers and cold winters.  Ridgewood's average July high is 83 degree and its average January low is 18 degrees.</p>
-
-			<img src="https://placebear.com/500/300">
 			
 		</article>
 

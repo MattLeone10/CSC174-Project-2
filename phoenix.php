@@ -22,8 +22,6 @@
 
 		<article>
 			<h2>Quick Facts</h2>
-			<img src="https://placebear.com/300/400">
-
 			<ul>
 				<li>State: Arizona</li>
 				<li>Region: Southwest</li>
@@ -45,8 +43,6 @@
 
 			<h3>Weather</h3>
 			<p>Phoenix is famous for being very hot and very dry.  Phoenix's average July high is 105 degrees, with winter "cooling" the city down to an average January low of 43 degrees.  Phoenix only receives about 9 inches of rain per year, a quarter of the US average.</p>
-
-			<img src="https://placebear.com/500/300">
 			
 		</article>
 

@@ -21,8 +21,6 @@
 
 		<article>
 			<h2>Quick Facts</h2>
-			<img src="https://placebear.com/300/400">
-
 			<ul>
 				<li>State: Illinois</li>
 				<li>Region: Midwest</li>
@@ -44,8 +42,6 @@
 
 			<h3>Weather</h3>
 			<p>Chicago is known for being very windy, and nearby Lake Michigan helps create around 3 feet of snow per year.  Chicago's place in the Midwest means it experiences both hot and cold temperatures (sometimes in the same week) with an average July high of 84 degrees and an average January low of 19 degrees, before taking humidity or windchill into account.</p>
-
-			<img src="https://placebear.com/500/300">
 			
 		</article>
 
