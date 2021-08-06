@@ -23,17 +23,23 @@
 		<article>
 			<h2>Our Cities:</h2>
 
-			<!-- background image to represent Chicago -->
-			<h3>Chicago, IL</h3>
-			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			<a href="chicago.php">
+				<!-- background image to represent Phoenix -->
+				<h3>Chicago, IL</h3>
+				<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			</a>
 
-			<!-- background image to represent Phoenix -->
-			<h3>Phoenix, AZ</h3>
-			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			<a href="phoenix.php">
+				<!-- background image to represent Phoenix -->
+				<h3>Phoenix, AZ</h3>
+				<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			</a>
 
-			<!-- background image to represent Ridgewood -->
-			<h3>Ridgewood, NJ</h3>
-			<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			<a href="ridgewood.php">
+				<!-- background image to represent Phoenix -->
+				<h3>Ridgewood, NJ</h3>
+				<p>Aenean malesuada Semper curabitur ipsum cum inceptos platea dignissim consequat rhoncus pede dolor. Pulvinar vel varius. Massa elementum litora nulla quis, penatibus fusce nullam magnis parturient dignissim aliquet Dignissim turpis.</p>
+			</a>
 
 		</article>
 
