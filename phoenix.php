@@ -12,7 +12,7 @@
 
 		<header>
 			<h1>Visit our Cities: Phoenix</h1>
-			<img src="https://placebear.com/1250/256">
+			<!-- add background image of Phoenix skyline/cluster of buildings -->
 		</header>
 
 		<?php 
