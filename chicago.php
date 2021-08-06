@@ -11,7 +11,7 @@
 	<div class="container">
 
 		<header>
-			<h1>Chicago, IL</h1>
+			<h1>Visit our Cities: Chicago</h1>
 			<img src="https://placebear.com/1250/256">
 		</header>
 
