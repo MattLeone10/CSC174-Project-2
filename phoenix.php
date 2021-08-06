@@ -99,7 +99,7 @@
 				</figure>
 			
 			<!-- FPO map -->
-			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=1h18b6_6lk0zOcIDRPwTRwqqiOuV2BBhX" width="300" height="300"></iframe>
+			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=10CJKbsH3mZvTyk26g-gtR2ZY5m59Ol6q" width="750" height="500"></iframe>
 
 			<a href="index.php#homepage_form">Sign the Guest Book</a>
 			
