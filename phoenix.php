@@ -15,14 +15,10 @@
 			<img src="https://placebear.com/1250/256">
 		</header>
 
-		<navbar class="menu">
-			<ul>
-				<li><a href="index.php">Home</a></li>
-				<li><a href="chicago.php">Chicago</a></li>
-				<li><a href="phoenix.php">Phoenix</a></li>
-				<li><a href="ridgewood.php">Ridgewood</a></li>
-			</ul>
-		</navbar>
+		<?php 
+		include "inc/nav.php"; 
+		?>
+
 
 		<article>
 			<h2>Quick Facts</h2>

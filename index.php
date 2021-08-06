@@ -14,14 +14,9 @@
 			<h1>Visit our Cities</h1>
 		</header>
 
-		<navbar class="menu">
-			<ul>
-				<li><a href="index.php">Home</a></li>
-				<li><a href="chicago.php">Chicago</a></li>
-				<li><a href="phoenix.php">Phoenix</a></li>
-				<li><a href="ridgewood.php">Ridgewood</a></li>
-			</ul>
-		</navbar>
+		<?php 
+		include "inc/nav.php"; 
+		?>
 
 		<section>
 			<img src="images/hero.jpg">
