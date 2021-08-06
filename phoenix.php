@@ -20,7 +20,7 @@
 		?>
 
 
-		<article>
+		<section class="quick_facts">
 			<h2>Quick Facts</h2>
 			<ul>
 				<li>State: Arizona</li>
@@ -28,7 +28,9 @@
 				<li>Size: 517 square miles</li>
 				<li>Population: 4.5 million</li>
 			</ul>
+		</section>
 
+		<article>
 			<h2>History of Phoenix</h2>
 
 			<h3>City's Founding</h3>

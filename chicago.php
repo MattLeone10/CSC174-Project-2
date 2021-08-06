@@ -19,7 +19,7 @@
 		include "inc/nav.php"; 
 		?>
 
-		<article>
+		<section class="quick_facts">
 			<h2>Quick Facts</h2>
 			<ul>
 				<li>State: Illinois</li>
@@ -27,7 +27,9 @@
 				<li>Size: 234 square miles</li>
 				<li>Population: 2.7 million</li>
 			</ul>
+		</section>
 
+		<article>
 			<h2>History of Chicago</h2>
 
 			<h3>City's Founding</h3>

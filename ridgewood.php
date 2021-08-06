@@ -19,7 +19,7 @@
 		include "inc/nav.php"; 
 		?>
 
-		<article>
+		<section class="quick_facts">
 			<h2>Quick Facts</h2>
 			<ul>
 				<li>State: New Jersey</li>
@@ -27,7 +27,9 @@
 				<li>Size: 5.8 square miles</li>
 				<li>Population: 25,000</li>
 			</ul>
+		</section>
 
+		<article>
 			<h2>History of Ridgewood</h2>
 
 			<h3>City's Founding</h3>
