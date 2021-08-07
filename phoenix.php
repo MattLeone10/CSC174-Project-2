@@ -34,10 +34,10 @@
 			<h2>History of Phoenix</h2>
 
 			<h3>City's Founding</h3>
-			<p>Mollis. Et potenti pede hac faucibus mi per nascetur gravida sed urna aliquet montes pellentesque primis rhoncus pharetra. Suspendisse cursus parturient, interdum eget dapibus mollis ad conubia accumsan neque iaculis. Magnis sodales ultricies. Lorem eget dignissim senectus ullamcorper fusce consectetuer. Nisi felis. Aenean rhoncus suscipit viverra vulputate litora. Sem. Aenean.</p>
+			<p>The Hohokam people inhabited what is now Greater Phoenix until about 1450 A.D. They created the first major urban civilization in the Salt River Valley and developed a canal system that’s still in use today. In 1865, the U.S. government established Fort McDowell here, and settlers such as Jack Swilling began farming the land. The city of Phoenix was established in 1868. Two years later, the first survey and census of the city noted it was about a mile long and a half-mile wide, with 74 dwellings and a population of 250.</p>
 
 			<h3>Famous Historical Events</h3>
-			<p>Lacus cum fringilla rhoncus magnis dis ullamcorper fringilla, elit pede. Nulla curabitur fermentum. Fringilla class ipsum. Tellus mauris magna proin facilisis porta maecenas metus suscipit aenean quisque aliquam. Non aliquet nullam aptent. Elementum ligula fermentum erat at dolor suscipit est ipsum dictumst eleifend Magnis aliquam purus fringilla fusce facilisis morbi.</p>
+			<p>In a state with notable events such as a gold rush and the government's recognition of the Grand Canyon as a national park, Phoenix has its own claim to fame. In 1966, Ernesto Miranda had been arrested and convicted in Phoenix of kidnapping and rape based on a supposed confession. But his attorneys take the case to the U.S. Supreme Court, where his conviction is overturned. From then on, the Miranda warning — "You have the right to remain silent ..." — has been required of police when making an arrest.</p>
 
 			<h2>What's it like in Phoenix?</h2>
 			<h3>Landscape</h3>
