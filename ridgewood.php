@@ -40,7 +40,7 @@
 
 			<h2>What's it like in Ridgewood?</h2>
 			<h3>Landscape</h3>
-			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
+			<p>Ridgewood is located near the Ho-Ho-Kus Brook Ravine nature preserve.  The village provides a view of Manhattan from its namesake ridge.  Within the village there is Twinney Pond and the Saddle River runs through Ridgewood.</p>
 
 			<h3>Weather</h3>
 			<p>Ridgewood's weather is typical for the US.  The town receives 48 inches of rainfall and 24 inches of snow per year.  The Mid-Atlantic region experiences warm summers and cold winters.  Ridgewood's average July high is 83 degree and its average January low is 18 degrees.</p>

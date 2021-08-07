@@ -40,7 +40,7 @@
 
 			<h2>What's it like in Chicago?</h2>
 			<h3>Landscape</h3>
-			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
+			<p>Chicago rests on the southern shore of Lake Michigan.  The Chicago River runs through the city, and is dyed green as a St. Patrick;s day tradition.  The Greater Chicago area also contains large sand dunes.  The surrounding Illinois and Indiana land is flat and ideal for farming corn and soybeans.</p>
 
 			<h3>Weather</h3>
 			<p>Chicago is known for being very windy, and nearby Lake Michigan helps create around 3 feet of snow per year.  Chicago's place in the Midwest means it experiences both hot and cold temperatures (sometimes in the same week) with an average July high of 84 degrees and an average January low of 19 degrees, before taking humidity or windchill into account.</p>

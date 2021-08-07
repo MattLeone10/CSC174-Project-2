@@ -41,7 +41,7 @@
 
 			<h2>What's it like in Phoenix?</h2>
 			<h3>Landscape</h3>
-			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
+			<p>Phoenix is a desert, even the Salt River does not have much water anymore.  Phoenix is home to many different types of cacti, which thrive in the dry desert state.  Phoenix has several nearby mountains, known as the Phoenix Mountain Range, which include the Camelback Mountain and Superstition Ridge.</p>
 
 			<h3>Weather</h3>
 			<p>Phoenix is famous for being very hot and very dry.  Phoenix's average July high is 105 degrees, with winter "cooling" the city down to an average January low of 43 degrees.  Phoenix only receives about 9 inches of rain per year, a quarter of the US average.</p>
