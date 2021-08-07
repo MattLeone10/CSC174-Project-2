@@ -33,10 +33,10 @@
 			<h2>History of Chicago</h2>
 
 			<h3>City's Founding</h3>
-			<p>Mollis. Et potenti pede hac faucibus mi per nascetur gravida sed urna aliquet montes pellentesque primis rhoncus pharetra. Suspendisse cursus parturient, interdum eget dapibus mollis ad conubia accumsan neque iaculis. Magnis sodales ultricies. Lorem eget dignissim senectus ullamcorper fusce consectetuer. Nisi felis. Aenean rhoncus suscipit viverra vulputate litora. Sem. Aenean.</p>
+			<p>The first non-Indian to settle within Chicago’s future boundaries was Jean Baptiste Point du Sable, who arrived around 1780. In 1803 the U.S. Army built Fort Dearborn on the south bank of the Chicago River. It was destroyed in an Indian raid in 1812 but rebuilt four years later. In 1830 platted lots for the future city were sold to help finance the Illinois and Michigan Canal. The 1832 Black Hawk War ended the last Native American resistance in the area. Chicago was incorporated as a town in 1833 and as a city in 1837, when its population reached 4,000.</p>
 
 			<h3>Famous Historical Events</h3>
-			<p>Lacus cum fringilla rhoncus magnis dis ullamcorper fringilla, elit pede. Nulla curabitur fermentum. Fringilla class ipsum. Tellus mauris magna proin facilisis porta maecenas metus suscipit aenean quisque aliquam. Non aliquet nullam aptent. Elementum ligula fermentum erat at dolor suscipit est ipsum dictumst eleifend Magnis aliquam purus fringilla fusce facilisis morbi.</p>
+			<p>In October 1871, a fire destroyed one-third of Chicago and left more than 100,000 homeless. The 1886 Haymarket affair, in which police fired on protesting workers (and, in the confusion following a fatal anarchist bombing, each other), ushered in an era of protest and reform for the multitudes of workers who kept Chicago’s meatpacking, manufacturing and shipping industries running. By the 1930s Chicago’s population reached 3 million. Gangsters Al Capone and John Dillinger grabbed headlines, but the real power lay with the city’s political “machine," a system of patronage that controlled city politics for the better part of a century.</p>
 
 			<h2>What's it like in Chicago?</h2>
 			<h3>Landscape</h3>
