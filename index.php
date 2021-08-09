@@ -42,6 +42,8 @@
 			</a>
 
 		</article>
+
+		<?php include "scripts/insert.php";?>
 		<footer>
 			<p>Ridgewood Copyright 2021</p>
 			<p>CSC 174 Advanced Front End Web Development</p>
