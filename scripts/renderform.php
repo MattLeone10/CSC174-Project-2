@@ -16,20 +16,12 @@ if ($error != ''){
 	<form method="post" action="">
 		<input type="hidden" name="counter" value="<?php echo $counter;?>">
 		<h2>Contact Information</h2>
-		<p>Give us your information so we can send you our newsletter!</p>
-		<label for="name"> Write down your name:</label> <input type="text" name="name" id="name" value="<?php echo $name;?>"><br>
-		<label for="email"> Email:</label> <input type="text" name="email" id="email" value="<?php echo $email;?>"><br>
-		<label for="phone"> Phone:</label> <input type="text" name="phone" id="phone" value="<?php echo $phone;?>"><br>
-		<br>
-
-		<h2>Favorite Place to eat in Ridgewood</h2>
-		<p>What is your favorite place to eat in ridgewood?</p>
-		<label for="eat"> Write down the location:</label> <input type="text" name="eat" id="eat" value="<?php echo $eat;?>"><br>
-
-		<h2>Favorite Place to hang out in Ridgewood</h2>
-		<p>Where is your favorite place to hang out in ridgewood?</p>
-		<label for="hangout"> Write down the location:</label> <input type="text" name="hangout" id="hangout" value="<?php echo $eat;?>"><br>
-
+		<p>Give us your information so we know you were here!</p>
+		<label for="firstName"> Write down your first name:</label> <input type="text" name="firstName" id="firstName" value="<?php echo $firstName;?>"><br>
+		<label for="lastname"> Last Name:</label> <input type="text" name="lastname" id="lastname" value="<?php echo $lastname;?>"><br>
+		<label for="email"> E-mail:</label> <input type="text" name="email" id="email" value="<?php echo $email;?>"><br>
+		<label for="phoneNumber"> Write down your phone number:</label> <input type="text" name="phoneNumber" id="phoneNumber" value="<?php echo $phoneNumber;?>"><br>
+		<label for="city"> Write down what city you visited:</label> <input type="text" name="city" id="city" value="<?php echo $city;?>"><br>
 		<input type="submit" name="submit" value="Submit">
 	</form>
 	<div>
