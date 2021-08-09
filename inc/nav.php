@@ -5,7 +5,6 @@
 		<li><a href="phoenix.php">Phoenix</a></li>
 		<li><a href="ridgewood.php">Ridgewood</a></li>
 		<li><a href="scripts/insert.php">Insert</a></li>
-		<li><a href="scripts/read.php">Visitors</a></li>
-		<li><a href="guest.php">Guest Book</a></li>
+		<li><a href="scripts/read.php">Guest Book</a></li>
 	</ul>
 </navbar>
