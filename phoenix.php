@@ -11,8 +11,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Phoenix, AZ</h1>
-			<img src="https://placebear.com/1250/256">
+			<h1>Visit our Cities: Phoenix</h1>
+			<!-- add background image of Phoenix skyline/cluster of buildings -->
 		</header>
 
 		<?php 
@@ -20,33 +20,31 @@
 		?>
 
 
-		<article>
+		<section class="quick_facts">
 			<h2>Quick Facts</h2>
-			<img src="https://placebear.com/300/400">
-
 			<ul>
 				<li>State: Arizona</li>
 				<li>Region: Southwest</li>
 				<li>Size: 517 square miles</li>
 				<li>Population: 4.5 million</li>
 			</ul>
+		</section>
 
+		<article>
 			<h2>History of Phoenix</h2>
 
 			<h3>City's Founding</h3>
-			<p>Mollis. Et potenti pede hac faucibus mi per nascetur gravida sed urna aliquet montes pellentesque primis rhoncus pharetra. Suspendisse cursus parturient, interdum eget dapibus mollis ad conubia accumsan neque iaculis. Magnis sodales ultricies. Lorem eget dignissim senectus ullamcorper fusce consectetuer. Nisi felis. Aenean rhoncus suscipit viverra vulputate litora. Sem. Aenean.</p>
+			<p>The Hohokam people inhabited what is now Greater Phoenix until about 1450 A.D. They created the first major urban civilization in the Salt River Valley and developed a canal system that’s still in use today. In 1865, the U.S. government established Fort McDowell here, and settlers such as Jack Swilling began farming the land. The city of Phoenix was established in 1868. Two years later, the first survey and census of the city noted it was about a mile long and a half-mile wide, with 74 dwellings and a population of 250.</p>
 
 			<h3>Famous Historical Events</h3>
-			<p>Lacus cum fringilla rhoncus magnis dis ullamcorper fringilla, elit pede. Nulla curabitur fermentum. Fringilla class ipsum. Tellus mauris magna proin facilisis porta maecenas metus suscipit aenean quisque aliquam. Non aliquet nullam aptent. Elementum ligula fermentum erat at dolor suscipit est ipsum dictumst eleifend Magnis aliquam purus fringilla fusce facilisis morbi.</p>
+			<p>In a state with notable events such as a gold rush and the government's recognition of the Grand Canyon as a national park, Phoenix has its own claim to fame. In 1966, Ernesto Miranda had been arrested and convicted in Phoenix of kidnapping and rape based on a supposed confession. But his attorneys take the case to the U.S. Supreme Court, where his conviction is overturned. From then on, the Miranda warning — "You have the right to remain silent ..." — has been required of police when making an arrest.</p>
 
 			<h2>What's it like in Phoenix?</h2>
 			<h3>Landscape</h3>
-			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
+			<p>Phoenix is a desert, even the Salt River does not have much water anymore.  Phoenix is home to many different types of cacti, which thrive in the dry desert state.  Phoenix has several nearby mountains, known as the Phoenix Mountain Range, which include the Camelback Mountain and Superstition Ridge.</p>
 
 			<h3>Weather</h3>
 			<p>Phoenix is famous for being very hot and very dry.  Phoenix's average July high is 105 degrees, with winter "cooling" the city down to an average January low of 43 degrees.  Phoenix only receives about 9 inches of rain per year, a quarter of the US average.</p>
-
-			<img src="https://placebear.com/500/300">
 			
 		</article>
 
@@ -101,36 +99,18 @@
 				</figure>
 			
 			<!-- FPO map -->
-			<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1h18b6_6lk0zOcIDRPwTRwqqiOuV2BBhX" width="300" height="300"></iframe>
+			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=10CJKbsH3mZvTyk26g-gtR2ZY5m59Ol6q" width="750" height="500"></iframe>
 
-			<h2>Sign the Guest Book<h2>
-			<form method="post" action="">
-
-			<label for="firstName">First Name:</label>
-			<input type="text" name="firstName"> <br> <br>
-
-			<label for="lastname">Last Name:</label>
-			<input type="text" name="lastname" id="lastname"> <br> <br>
-
-			<label for="email">Email:</label>
-			<input type="text" name="email" id="email"> <br> <br>
-
-			<label for="phoneNumber">Zipcode:</label>
-			<input type="text" name="zipcode" id="zipcode"> <br> <br>
-
-			<label for="phoneNumber">City Visited:</label>
-			<input type="text" name="city" id="city"> <br> <br>
-
-			<div class = "submit"><input type="submit" value="Signed!"></div>
+			<a href="index.php#homepage_form">Sign the Guest Book</a>
 			
 		</aside>
 
-		<footer>
-			<p>Phoenix Copyright 2021</p>
-			<p>CSC 174 Advanced Front End Web Development</p>
-		</footer>
+			<footer>
+				<p>Phoenix Copyright 2021</p>
+				<p>CSC 174 Advanced Front End Web Development</p>
+			</footer>
 
-	</div>
+		</div>
 
 	</body>
 

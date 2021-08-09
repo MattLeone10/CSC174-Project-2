@@ -11,41 +11,39 @@
 	<div class="container">
 
 		<header>
-			<h1>Chicago, IL</h1>
-			<img src="https://placebear.com/1250/256">
+			<h1>Visit our Cities: Chicago</h1>
+			<!-- add background image of Chicago skyline/cluster of buildings -->
 		</header>
 
 		<?php 
 		include "inc/nav.php"; 
 		?>
 
-		<article>
+		<section class="quick_facts">
 			<h2>Quick Facts</h2>
-			<img src="https://placebear.com/300/400">
-
 			<ul>
 				<li>State: Illinois</li>
 				<li>Region: Midwest</li>
 				<li>Size: 234 square miles</li>
 				<li>Population: 2.7 million</li>
 			</ul>
+		</section>
 
+		<article>
 			<h2>History of Chicago</h2>
 
 			<h3>City's Founding</h3>
-			<p>Mollis. Et potenti pede hac faucibus mi per nascetur gravida sed urna aliquet montes pellentesque primis rhoncus pharetra. Suspendisse cursus parturient, interdum eget dapibus mollis ad conubia accumsan neque iaculis. Magnis sodales ultricies. Lorem eget dignissim senectus ullamcorper fusce consectetuer. Nisi felis. Aenean rhoncus suscipit viverra vulputate litora. Sem. Aenean.</p>
+			<p>The first non-Indian to settle within Chicago’s future boundaries was Jean Baptiste Point du Sable, who arrived around 1780. In 1803 the U.S. Army built Fort Dearborn on the south bank of the Chicago River. It was destroyed in an Indian raid in 1812 but rebuilt four years later. In 1830 platted lots for the future city were sold to help finance the Illinois and Michigan Canal. The 1832 Black Hawk War ended the last Native American resistance in the area. Chicago was incorporated as a town in 1833 and as a city in 1837, when its population reached 4,000.</p>
 
 			<h3>Famous Historical Events</h3>
-			<p>Lacus cum fringilla rhoncus magnis dis ullamcorper fringilla, elit pede. Nulla curabitur fermentum. Fringilla class ipsum. Tellus mauris magna proin facilisis porta maecenas metus suscipit aenean quisque aliquam. Non aliquet nullam aptent. Elementum ligula fermentum erat at dolor suscipit est ipsum dictumst eleifend Magnis aliquam purus fringilla fusce facilisis morbi.</p>
+			<p>In October 1871, a fire destroyed one-third of Chicago and left more than 100,000 homeless. The 1886 Haymarket affair, in which police fired on protesting workers (and, in the confusion following a fatal anarchist bombing, each other), ushered in an era of protest and reform for the multitudes of workers who kept Chicago’s meatpacking, manufacturing and shipping industries running. By the 1930s Chicago’s population reached 3 million. Gangsters Al Capone and John Dillinger grabbed headlines, but the real power lay with the city’s political “machine," a system of patronage that controlled city politics for the better part of a century.</p>
 
 			<h2>What's it like in Chicago?</h2>
 			<h3>Landscape</h3>
-			<p>Nunc senectus habitasse Massa lectus ligula tortor hac. Penatibus, primis imperdiet velit. Facilisis duis. Hac blandit vestibulum pretium etiam pellentesque diam dictum. Mi magnis Viverra nunc cum mus. Odio curabitur, dignissim, mauris Nibh cum magnis conubia semper feugiat mauris posuere vitae adipiscing mi cras, potenti lacinia ut imperdiet enim rhoncus.</p>
+			<p>Chicago rests on the southern shore of Lake Michigan.  The Chicago River runs through the city, and is dyed green as a St. Patrick;s day tradition.  The Greater Chicago area also contains large sand dunes.  The surrounding Illinois and Indiana land is flat and ideal for farming corn and soybeans.</p>
 
 			<h3>Weather</h3>
 			<p>Chicago is known for being very windy, and nearby Lake Michigan helps create around 3 feet of snow per year.  Chicago's place in the Midwest means it experiences both hot and cold temperatures (sometimes in the same week) with an average July high of 84 degrees and an average January low of 19 degrees, before taking humidity or windchill into account.</p>
-
-			<img src="https://placebear.com/500/300">
 			
 		</article>
 
@@ -100,27 +98,9 @@
 				</figure>
 			
 			<!-- FPO map -->
-			<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1h18b6_6lk0zOcIDRPwTRwqqiOuV2BBhX" width="300" height="300"></iframe>
+			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=1WHJy9Ckk8mNpk3gCOhfC_XFNePTP-6Xu" width="750" height="500"></iframe>
 
-			<h2>Sign the Guest Book<h2>
-			<form method="post" action="">
-
-			<label for="firstName">First Name:</label>
-			<input type="text" name="firstName"> <br> <br>
-
-			<label for="lastname">Last Name:</label>
-			<input type="text" name="lastname" id="lastname"> <br> <br>
-
-			<label for="email">Email:</label>
-			<input type="text" name="email" id="email"> <br> <br>
-
-			<label for="phoneNumber">Zipcode:</label>
-			<input type="text" name="zipcode" id="zipcode"> <br> <br>
-
-			<label for="phoneNumber">City Visited:</label>
-			<input type="text" name="city" id="city"> <br> <br>
-
-			<div class = "submit"><input type="submit" value="Signed!"></div>
+			<a href="index.php#homepage_form">Sign the Guest Book</a>
 			
 		</aside>
 
