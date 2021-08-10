@@ -1,6 +1,11 @@
 <?php 
 include "inc/top-part.php"; 
 ?>
+
+<header>
+  <h1>Visit our Cities</h1>
+</header>
+
 <?php 
 include "inc/nav.php"; 
 ?>
@@ -12,25 +17,24 @@ include('scripts/config.php');
 $result = mysqli_query($connection, "SELECT * FROM guestbook");
 ?>
 
+<h2>Our Guest Book</h2>
+<p>See who has visited Chicago, Phoenix, or Ridgewood</p>
+
 <table class="readtable">
   <tr>
-    <th>count</th>
-    <th>firstName</th>
-    <th>lastname</th>
-    <th>email</th>
-    <th>phoneNumber</th>
-    <th>city</th>
-    <th colspan="2"><em>functions</em></th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Phone Number</th>
+    <th>City Visited</th>
+    <th colspan="2">Functions</th>
   </tr>
 <?php
 // loop through results of database query, displaying them in the table
 while($row = mysqli_fetch_array( $result )) {
 ?>
   <tr>
-    <td><?php echo $row['count']; ?></td>
     <td><?php echo $row['firstName']; ?></td>
     <td><?php echo $row['lastname']; ?></td>
-    <td><?php echo $row['email']; ?></td>
     <td><?php echo $row['phoneNumber']; ?></td>
     <td><?php echo $row['city']; ?></td>
     <td><a href="scripts/update.php?count=<?php echo $row['count']; ?>">Edit</a></td>
