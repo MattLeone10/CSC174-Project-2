@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
 	if ($firstName == ''){
 		$error = "Please fill in required fields";
 
-		renderForm($counter, $firstName,$error);
+		renderForm($count, $firstName,$error);
 	} else {
 		$result = mysqli_query($connection, "INSERT INTO guestbook (firstName, lastname, email, phoneNumber, city) VALUES ('$firstName','$lastname','$email','$phoneNumber','$city')");
 

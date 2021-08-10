@@ -1,5 +1,5 @@
 <?php
-function renderForm($counter, $name, $email, $phone, $eat, $hangout, $error) {
+function renderForm($count, $name, $email, $phone, $eat, $hangout, $error) {
 ?>
 <!doctype html>
 <html>
@@ -14,7 +14,7 @@ if ($error != ''){
 }
 ?>
 	<form method="post" action="">
-		<input type="hidden" name="counter" value="<?php echo $counter;?>">
+		<input type="hidden" name="count" value="<?php echo $count;?>">
 		<h2>Contact Information</h2>
 		<p>Give us your information so we know you were here!</p>
 		<label for="firstName"> Write down your first name:</label> <input type="text" name="firstName" id="firstName" value="<?php echo $firstName;?>"><br>
