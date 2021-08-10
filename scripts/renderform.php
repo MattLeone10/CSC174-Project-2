@@ -13,7 +13,7 @@ if ($error != ''){
 	echo '<div '.$error.'</div>';
 }
 ?>
-	<form method="post" action="">
+	<form id="sign" method="post" action="">
 		<input type="hidden" name="count" value="<?php echo $count;?>">
 		<h2>Sign the Guest Book<h2>
 		<label for="firstName">First Name:</label> <input type="text" name="firstName" id="firstName" value="<?php echo $firstName;?>"><br>

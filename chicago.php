@@ -100,7 +100,7 @@
 			<!-- FPO map -->
 			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=1WHJy9Ckk8mNpk3gCOhfC_XFNePTP-6Xu" width="750" height="500"></iframe>
 
-			<a href="contact.php">Sign the Guest Book</a>
+			<a href="index.php#sign">Sign the Guest Book</a>
 			
 		</aside>
 
