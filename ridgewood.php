@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
-	<head>
-		<title>CSC 174 | Ridgewood</title>
-	</head>
-
-	<body>
+<?php 
+include "inc/top-part.php"; 
+?>
 
 	<div class="container">
 
@@ -109,7 +103,4 @@
 		</footer>
 
 	</div>
-
-	</body>
-
-</html>
+<?php include "inc/bottom-part.php"; ?>
