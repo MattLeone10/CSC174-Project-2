@@ -98,10 +98,12 @@ include "inc/top-part.php";
 			
 		</aside>
 
-		<footer>
-			<p>Chicago Copyright 2021</p>
-			<p>CSC 174 Advanced Front End Web Development</p>
-		</footer>
-
 	</div>
+		
+	<footer>
+		<p>Chicago Copyright 2021</p>
+		<p>CSC 174 Advanced Front End Web Development</p>
+	</footer>
+
+	
 <?php include "inc/bottom-part.php"; ?>

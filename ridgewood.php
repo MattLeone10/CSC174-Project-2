@@ -97,10 +97,12 @@ include "inc/top-part.php";
 			<a href="index.php#sign">Sign the Guest Book</a>
 		</aside>
 
-		<footer>
-			<p>Ridgewood Copyright 2021</p>
-			<p>CSC 174 Advanced Front End Web Development</p>
-		</footer>
-
 	</div>
-<?php include "inc/bottom-part.php"; ?>
+		
+	<footer>
+		<p>Chicago Copyright 2021</p>
+		<p>CSC 174 Advanced Front End Web Development</p>
+	</footer>
+	
+		
+	<?php include "inc/bottom-part.php"; ?>

@@ -45,9 +45,9 @@ include "inc/top-part.php";
 		<?php include "scripts/insert.php";?>
 
 	</div>	
-		
-		<footer>
-			<p>CSC 174 Advanced Front End Web Development</p>
-		</footer>
+
+	<footer>
+		<p>CSC 174 Advanced Front End Web Development</p>
+	</footer>
 
 <?php include "inc/bottom-part.php"; ?>
