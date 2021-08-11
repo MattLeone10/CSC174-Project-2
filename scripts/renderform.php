@@ -8,6 +8,9 @@ function renderForm($count, $name, $email, $phone, $eat, $hangout, $error) {
 	<title>CSC 174 | Guest Book</title>
 </head>
 <body>
+
+<h2>Sign the Guest Book</h2>
+
 <?php
 if ($error != ''){
 	echo '<div '.$error.'</div>';

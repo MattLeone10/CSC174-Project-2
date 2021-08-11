@@ -41,8 +41,9 @@ include "inc/top-part.php";
 			</div>
 		</article>
 
-		<h2>Sign the Guest Book<h2>
-		<?php include "scripts/insert.php";?>
+		<aside>
+			<?php include "scripts/insert.php";?>
+		</aside>
 
 	</div>	
 
