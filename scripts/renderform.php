@@ -25,7 +25,7 @@ if ($error != ''){
 	</form>
 	<div>
 		<br>
-		<a href="visitors.php">Cancel</a>
+		<a href="visitors.php">Go back to Guest book</a>
 	</div>
 	<body>
 	</html>
