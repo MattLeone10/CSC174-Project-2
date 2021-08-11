@@ -39,14 +39,15 @@ include "inc/top-part.php";
 					<p>Located near Manhattan with a ridge providing a view of the city, Ridgewood is home to several parks, a schoolhouse museum, and a landscape architectural center.</p>
 				</a>
 			</div>
-			
 		</article>
+
 		<h2>Sign the Guest Book<h2>
 		<?php include "scripts/insert.php";?>
+
+	</div>	
+		
 		<footer>
-			<p>Ridgewood Copyright 2021</p>
 			<p>CSC 174 Advanced Front End Web Development</p>
 		</footer>
 
-	</div>
 <?php include "inc/bottom-part.php"; ?>
