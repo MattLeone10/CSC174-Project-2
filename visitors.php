@@ -37,7 +37,7 @@ while($row = mysqli_fetch_array( $result )) {
     <td><?php echo $row['lastname']; ?></td>
     <td><?php echo $row['phoneNumber']; ?></td>
     <td><?php echo $row['city']; ?></td>
-    <td><a href="scripts/update.php?count=<?php echo $row['count']; ?>">Edit</a></td>
+    <td><a href="update.php?count=<?php echo $row['count']; ?>">Edit</a></td>
     <td><a onclick="return confirm('Are you sure you want to delete count: <?php echo $row["count"]; ?>?')" href="scripts/delete.php?count=<?php echo $row['count']; ?>">Delete</a></td> 
   </tr>
 <?php
