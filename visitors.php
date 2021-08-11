@@ -24,7 +24,7 @@ $result = mysqli_query($connection, "SELECT * FROM guestbook");
   <tr>
     <th>First Name</th>
     <th>Last Name</th>
-    <th>Phone Number</th>
+    <th>Zipcode</th>
     <th>City Visited</th>
     <th colspan="2">Functions</th>
   </tr>

@@ -35,7 +35,7 @@ include "inc/top-part.php";
 			</a>
 
 		</article>
-
+		<h2>Sign the Guest Book<h2>
 		<?php include "scripts/insert.php";?>
 		<footer>
 			<p>Ridgewood Copyright 2021</p>
