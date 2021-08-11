@@ -94,7 +94,7 @@ include "inc/top-part.php";
 			<!-- FPO map -->
 			<iframe class="map" src="https://www.google.com/maps/d/u/1/embed?mid=1iNkhQjCWXuGxKkjVnp_-QapcHu4ORKPR" width="750" height="500"></iframe>
 
-			<a href="contact.php">Sign the Guest Book</a>
+			<a href="index.php#sign">Sign the Guest Book</a>
 		</aside>
 
 		<footer>
