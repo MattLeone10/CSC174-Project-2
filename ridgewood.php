@@ -100,7 +100,7 @@ include "inc/top-part.php";
 	</div>
 		
 	<footer>
-		<p>Chicago Copyright 2021</p>
+		<p>Ridgewood Copyright 2021</p>
 		<p>CSC 174 Advanced Front End Web Development</p>
 	</footer>
 	
