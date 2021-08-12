@@ -274,3 +274,12 @@ The course name is placed in the footer because, while knowing the context for t
 - Arvo font is a serif font that has vibes of a type writer and gives a retro feel to the site. The site is a travel/tourist site encouraging visitors to visit the sities and sign a guestbook, bringing the modern practices of traveling and searching up sites to see a connection to the more retro and less tech-y days of signing guest books and joining a community of travelers. The info about the cities involves a lot of historical information. The font is meant to help portray the blending of modern and callback.
 
 - Montserrat is the font of retro art deco travel posters, giving another subtle nod to the travel of days past.
+
+### Hypothetical plans that didn't happen...
+
+- The background pictures commented in from Miranda would all be background pictures...
+- The color scheme would include soft pinks, dark dusty reds, and greys to tie together the beige-y pinks of the Phoenix desert, the reds of Chicago colors, and the quiet historical small town vibes of ridgewood
+- The home page would be in a Z-pattern with the form as a final call to action in the bottom right corner and the page title and navigation at the top-left
+- the city pages would be in an F-Pattern with each section in it's own box with a border/background color to provide opacity for text-readability over the background image of each page that would be an image of the city
+- margins and gutters would be better implemented to separate content to make it more readable and better group each section together (eg. all the places to see would bemore visually grouped apart from the places to eat, etc.)
+- the guest book would be formatted to be more casually readable with margins in between the columns and margins around the entire guest book
