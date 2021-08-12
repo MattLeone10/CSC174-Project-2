@@ -41,52 +41,52 @@ include "inc/top-part.php";
 			
 		</article>
 
-		<aside>
-			<h2>Visit Ridgewood</h2>
+		<aside class="row">
+			<h2 class="offset-4">Visit Ridgewood</h2>
 			<h3>Places to See</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/schoolhouse.jpg" alt="A white building with a pointed roof surrounded by trees.">
 					<figcaption>Schoolhouse Museum</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/james_rose.jpg" alt="A curved stone path through a garden with a gate and a decorative structure to the right.">
 					<figcaption>James Rose Center</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/graydon.jpg" alt="A pool and a grassy area with a tree on each side of the image.  There are people to the right and tents in the distance.">
 					<figcaption>Graydon Park</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/raymonds.jpg" alt="A brick building with large windows.  A black and red sign with the name Raymond's hangs above the windows.">
 					<figcaption>Raymond's</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/village_green.jpg" alt="A cream building with brown trim and supports and a gray peaked roof.  There is a large clock on the building's face.">
 					<figcaption>Village Green Restaurant</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/cafe_37.jpg" alt="Two tables of people eating outside on a patio.">
 					<figcaption>Cafe 37</figcaption>
 				</figure>
 
-				<h3>Places to Stay</h3>
-				<figure>
+			<h3>Places to Stay</h3>
+				<figure class="col-4">
 					<img src="images/riverview.jpg" alt="The front of a brick house.  There is a white door, bench and windows with green shutters.">
 					<figcaption>Riverview Bed and Breakfast</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/hudson.jpg" alt="A two-story yellow and brown house with a porch and hedges in front.">
 					<figcaption>Casa Hudson</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/waterstone.jpg" alt="A cream two-story house with a deck to the right.  A wooden staircase leads to the front door.">
 					<figcaption>Waterstone Inn</figcaption>
 				</figure>

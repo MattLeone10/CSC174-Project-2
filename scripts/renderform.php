@@ -9,14 +9,14 @@ function renderForm($count, $name, $email, $phone, $eat, $hangout, $error) {
 </head>
 <body>
 
-<h2>Sign the Guest Book</h2>
+<h2 class="col-6">Sign the Guest Book</h2>
 
 <?php
 if ($error != ''){
 	echo '<div '.$error.'</div>';
 }
 ?>
-	<form id="sign" method="post" action="">
+	<form class="col-6" id="sign" method="post" action="">
 		<input type="hidden" name="count" value="<?php echo $count;?>">
 		<label for="firstName">First Name: </label> <input type="text" name="firstName" id="firstName" value="<?php echo $firstName;?>"><br>
 		<label for="lastname">Last Name: </label> <input type="text" name="lastname" id="lastname" value="<?php echo $lastname;?>"><br>

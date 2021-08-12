@@ -25,6 +25,11 @@ a {
 	color: inherit;
 }
 
+footer {
+	width: 100%;
+	margin: 0;
+}
+
 /*STATES*/
 .is-current {
 	background-color: #463F3A;

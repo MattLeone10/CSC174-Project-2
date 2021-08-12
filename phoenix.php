@@ -42,52 +42,52 @@ include "inc/top-part.php";
 			
 		</article>
 
-		<aside>
-			<h2>Visit Phoenix</h2>
+		<aside class="row">
+			<h2 class="offset-4">Visit Phoenix</h2>
 			<h3>Places to See</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/botanical.jpg" alt="A sculpture of a pink head on a blue pedestal surrounded by cacti outside">
 					<figcaption>Desert Botanical Garden</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/lost_dutchman.jpg" alt="A large rock structure in the desert with a cactus to the right.">
 					<figcaption>Lost Dutchman State Park</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/scottsdale.jpg" alt="Three buildings styled like the Old West with three cars parked in front of them and metal cowboy sculptures to the right.">
 					<figcaption>Scottsdale Old Town</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/ghost_ranch.jpg" alt="A dining area with wooden tables, yellow walls, and southwest inspired decorations.">
 					<figcaption>Ghost Ranch</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/kai.jpg" alt="A spacious dining area with a gray and white interior and large windows.">
 					<figcaption>Kai</figcaption>
-				</figure>
+				</figure class="col-4">
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/bbq.jpg" alt="One of the famous long lines for Little Miss BBQ waiting outside the building.">
 					<figcaption>Little Miss BBQ</figcaption>
 				</figure>
 
-				<h3>Places to Stay</h3>
-				<figure>
+			<h3>Places to Stay</h3>
+				<figure class="col-4">
 					<img src="images/san_carlos.jpg" alt="A large and old-fashioned hotel building with a sign that says San Carlos Hotel.">
 					<figcaption>Hotel San Carlos</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/biltmore.jpg" alt="A large brick building with many sections and stories">
 					<figcaption>Arizona Biltmore</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/hi_phoenix.jpg" alt="A hostel room with two sets of bunk beds with colorful bedding">
 					<figcaption>HI Phoenix</figcaption>
 				</figure>

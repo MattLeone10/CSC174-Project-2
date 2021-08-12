@@ -13,8 +13,8 @@ include "inc/top-part.php";
 
 		<!-- hero image -->
 
-		<article class="row">
-			<h2 class="offset-4">Our Cities:</h2>
+		<article class="row justify-content-evenly">
+			<h2 class="text-center">Our Cities:</h2>
 
 			<div class="col-3 card">
 				<a href="chicago.php">
@@ -41,7 +41,7 @@ include "inc/top-part.php";
 			</div>
 		</article>
 
-		<aside>
+		<aside class="row align-items-center">
 			<?php include "scripts/insert.php";?>
 		</aside>
 

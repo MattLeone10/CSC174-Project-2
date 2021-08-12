@@ -41,52 +41,52 @@ include "inc/top-part.php";
 			
 		</article>
 
-		<aside>
-			<h2>Visit Chicago</h2>
+		<aside class="row gy-2">
+			<h2 class="offset-4">Visit Chicago</h2>
 			<h3>Places to See</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/millennium_park.jpg" alt="People grouped around a metal, reflective sculpture shaped like a bean.">
 					<figcaption>The Bean</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/navy_pier.jpg" alt="A pier with a large Ferris wheel.  Chicago's skyline is in the background and Lake Michigan is to the left.">
 					<figcaption>Navy Pier</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/aquarium.jpg" alt="An aquarium filled with many different colorful fish.  A person can be seen through the glass watching the fish.">
 					<figcaption>Shedd Aquarium</figcaption>
 				</figure>
 
 			<h3>Places to Eat</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/ginos.jpg" alt="Metal furniture in an outdoor seating area with a gray building in the background.">
 					<figcaption>Gino's East</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/portillos.jpg" alt="A row of small tables with photos hung on the brick wall and from the blue ceiling.">
 					<figcaption>Portillo's</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/garrett.jpg" alt="The front counter of a store with two cashiers and a menu behind it.">
 					<figcaption>Garrett Popcorn Shops</figcaption>
 				</figure>
 
 				<h3>Places to Stay</h3>
-				<figure>
+				<figure class="col-4">
 					<img src="images/fieldhouse.jpg" alt="Two beds with white sheets and a dark wood bedframe in a white-paneled room.">
 					<figcaption>Fieldhouse Jones</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/bright_stylish.jpg" alt="A living room with gray walls, a large leather sectional, a wooden coffee table and tall windows leading to a patio.">
 					<figcaption>Bright and Stylish Loft</figcaption>
 				</figure>
 
-				<figure>
+				<figure class="col-4">
 					<img src="images/freehand.jpg" alt="">
 					<figcaption>Freehand Chicago</figcaption>
 				</figure>
