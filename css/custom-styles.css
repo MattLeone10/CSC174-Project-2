@@ -4,6 +4,17 @@
 	src: url(Arvo-Regular.ttf);
 }
 
+@font-face {
+	font-family: BodyFont;
+	src: url(Montserrat-Medium.ttf);
+}
+
+body {
+	font-family: unset;
+	font-family: BodyFont;
+
+}
+
 h1, h2, h3 {
 	font-family: unset;
 	font-family: TitleFont;
