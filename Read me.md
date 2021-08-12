@@ -271,6 +271,6 @@ The course name is placed in the footer because, while knowing the context for t
 
 ### Typography
 
-- Arvo font is a serif font that has vibes of a type writer and gives a retro feel to the site. The site is a travel/tourist site encouraging visitors to visit the sities and sign a guestbook, bringing the modern practices of traveling and searching up sites to see a connection to the more retro and less tech-y days of signing guest books and joining a community of travelers. The font is meant to help portray the blending of modern and callback.
+- Arvo font is a serif font that has vibes of a type writer and gives a retro feel to the site. The site is a travel/tourist site encouraging visitors to visit the sities and sign a guestbook, bringing the modern practices of traveling and searching up sites to see a connection to the more retro and less tech-y days of signing guest books and joining a community of travelers. The info about the cities involves a lot of historical information. The font is meant to help portray the blending of modern and callback.
 
 - Montserrat is the font of retro art deco travel posters, giving another subtle nod to the travel of days past.

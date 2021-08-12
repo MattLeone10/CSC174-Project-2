@@ -20,6 +20,10 @@ h1, h2, h3 {
 	font-family: TitleFont;
 }
 
+a {
+	text-decoration: none;
+	color: inherit;
+}
 
 /*STATES*/
 .is-current {
