@@ -13,10 +13,10 @@ include "inc/top-part.php";
 
 		<!-- hero image -->
 
-		<article>
-			<h2>Our Cities:</h2>
+		<article class="row">
+			<h2 class="offset-4">Our Cities:</h2>
 
-			<div class="col-4">
+			<div class="col-3 card">
 				<a href="chicago.php">
 					<!-- background image to represent Chicago -->
 					<h3>Chicago, IL</h3>
@@ -24,7 +24,7 @@ include "inc/top-part.php";
 				</a>
 			</div>
 
-			<div class="col-4">
+			<div class="col-3 card">
 				<a href="phoenix.php">
 					<!-- background image to represent Phoenix -->
 					<h3>Phoenix, AZ</h3>
@@ -32,8 +32,8 @@ include "inc/top-part.php";
 				</a>
 			</div>
 
-			<div class="col-4">
-				<a href="ridgewood.php">
+			<div class="col-3 card">
+				<a href="ridgewood.php card">
 					<!-- background image to represent Ridgewood -->
 					<h3>Ridgewood, NJ</h3>
 					<p>Located near Manhattan with a ridge providing a view of the city, Ridgewood is home to several parks, a schoolhouse museum, and a landscape architectural center.</p>
