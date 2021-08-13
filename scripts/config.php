@@ -1,5 +1,5 @@
 <?php
-	$dbhost = "50.87.233.27";
+	$dbhost = "localhost";
 	$dbuser = "urcscon3_project02";
 	$dbpass = "coffee1N/21!";
 	$dbname = "urcscon3_project02";
